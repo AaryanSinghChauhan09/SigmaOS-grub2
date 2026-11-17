@@ -3,7 +3,7 @@ name = "SigmaOS-grub2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "grub2 component"
+description = "GRand Unified Bootloader model"
 upstream = []
 
 [contract]
